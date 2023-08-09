@@ -17,6 +17,7 @@
                                 </div>
                             </div>
                             <div class="col-md-9">
+                                
                                 <div class="form-group">
                                     <label for="" class="control-label">Komponen 1</label>
                                     <input type="text" name="nama" class="form-control">
